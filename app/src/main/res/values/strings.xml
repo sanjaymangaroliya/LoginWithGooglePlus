@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login With Google Plus</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="alert">Alert!</string>
+    <string name="internet_error">Internet Connection Not Available.</string>
+</resources>
